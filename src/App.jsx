@@ -110,7 +110,7 @@ const App = () => {
           />
         )}
       </Flex>
-      <Text ml="650px">@ 2023 by <a href="https://www.linkedin.com/in/matheus-matos-1a523221b/">Matheus Matos</a></Text>
+      <Text ml="650px"> @ 2023 by <a href="https://www.linkedin.com/in/matheus-matos-1a523221b/">Matheus Matos</a></Text>
     </>
   );
 }
